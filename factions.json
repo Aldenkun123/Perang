@@ -1,0 +1,6 @@
+[
+ {"nama":"Aurelia","region":"barat","warna":"#3b7dd8","ai":"agresif"},
+ {"nama":"Krasnov","region":"timur","warna":"#d8483b","ai":"agresif"},
+ {"nama":"Sahel","region":"selatan","warna":"#e0932f","ai":"ekonomi"},
+ {"nama":"Nordheim","region":"utara","warna":"#4fc3d9","ai":"defensif"}
+]
