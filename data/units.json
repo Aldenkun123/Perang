@@ -1,0 +1,15 @@
+[
+ {"id":"inf_barat","nama":"Infanteri Barat","region":"barat","tipe":"inf","atk":4,"def":4,"biaya":10},
+ {"id":"tank_barat","nama":"Tank Berat","region":"barat","tipe":"tank","atk":8,"def":5,"biaya":25},
+ {"id":"art_barat","nama":"Artileri Mobile","region":"barat","tipe":"art","atk":7,"def":2,"biaya":15},
+ {"id":"inf_timur","nama":"Infanteri Massal","region":"timur","tipe":"inf","atk":3,"def":3,"biaya":6},
+ {"id":"garda_timur","nama":"Garda Elit","region":"timur","tipe":"inf","atk":5,"def":5,"biaya":14},
+ {"id":"art_timur","nama":"Artileri Roket","region":"timur","tipe":"art","atk":6,"def":2,"biaya":10},
+ {"id":"inf_selatan","nama":"Infanteri Gurun","region":"selatan","tipe":"inf","atk":3,"def":3,"biaya":8},
+ {"id":"kav_selatan","nama":"Kavaleri","region":"selatan","tipe":"kav","atk":5,"def":3,"biaya":12},
+ {"id":"gerilya_selatan","nama":"Pasukan Gerilya","region":"selatan","tipe":"inf","atk":4,"def":2,"biaya":9},
+ {"id":"inf_utara","nama":"Infanteri Salju","region":"utara","tipe":"inf","atk":3,"def":5,"biaya":9},
+ {"id":"sniper_utara","nama":"Penembak Jitu","region":"utara","tipe":"inf","atk":6,"def":2,"biaya":13},
+ {"id":"meriam_utara","nama":"Meriam Benteng","region":"utara","tipe":"art","atk":5,"def":5,"biaya":16},
+ {"id":"milisi","nama":"Milisi","region":"netral","tipe":"inf","atk":3,"def":3,"biaya":5}
+]

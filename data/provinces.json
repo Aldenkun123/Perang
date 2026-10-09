@@ -1,0 +1,17 @@
+[
+ {"nama":"Hammerfest","terrain":"kota","c":0,"r":0,"owner":3,"kota":true},
+ {"nama":"Taiga","terrain":"hutan","c":1,"r":0,"owner":3},
+ {"nama":"Fjord","terrain":"salju","c":2,"r":0,"owner":3},
+ {"nama":"Volga","terrain":"dataran","c":3,"r":0,"owner":1},
+ {"nama":"Krasnograd","terrain":"kota","c":4,"r":0,"owner":1,"kota":true},
+ {"nama":"Albion","terrain":"dataran","c":0,"r":1,"owner":0},
+ {"nama":"Rheinland","terrain":"kota","c":1,"r":1,"owner":0,"kota":true},
+ {"nama":"Heartland","terrain":"dataran","c":2,"r":1,"owner":null},
+ {"nama":"Karpat","terrain":"salju","c":3,"r":1,"owner":null},
+ {"nama":"Ural","terrain":"salju","c":4,"r":1,"owner":1},
+ {"nama":"Lutetia","terrain":"kota","c":0,"r":2,"owner":0,"kota":true},
+ {"nama":"Mediterania","terrain":"dataran","c":1,"r":2,"owner":null},
+ {"nama":"Gurun Besar","terrain":"gurun","c":2,"r":2,"owner":2},
+ {"nama":"Rimba","terrain":"hutan","c":3,"r":2,"owner":2},
+ {"nama":"Kairo","terrain":"kota","c":4,"r":2,"owner":2,"kota":true}
+]
